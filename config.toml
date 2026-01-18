@@ -25,13 +25,13 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
-[Twitch Revanced]
+[Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 build-mode = "both"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
-[YouTube Revanced]
+[YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
